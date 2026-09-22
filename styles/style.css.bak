@@ -8,7 +8,7 @@ html {
   block-size: 100%;
 }
 
-.page {
+.page {	
   inline-size: 1200px;
   block-size: 100%;
   margin: auto;
@@ -96,7 +96,7 @@ button:focus {
 
 button:focus-visible {
 	outline: 1px solid white;
-	outline-offset: 1px;
+	outline-offset: 1px; 
 }
 
 .result {
@@ -194,7 +194,7 @@ button:focus-visible {
 
 .search-form__label:has(:focus-visible) {
 	outline: 1px solid white;
-	outline-offset: 1px;
+	outline-offset: 1px; 
 }
 
 .search-form__fieldset-title {
@@ -309,7 +309,7 @@ button:focus-visible {
 	width: 194px;
 	height: 103px;
 	object-fit: cover;
-	object-position: left center;
+	object-position: left center; 
 }
 
 .more-button {
