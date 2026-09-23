@@ -108,7 +108,6 @@ button:focus-visible {
 	flex-direction: column;
 	gap: 10px;
 	width: 711px;
-	margin-top: 11px;
 }
 
 .result__video-container {
@@ -218,7 +217,6 @@ button:focus-visible {
 	flex-direction: column;
 	gap: 18px;
 	width: 399px;
-	margin-bottom: 68px;
 }
 
 .content__accent {
